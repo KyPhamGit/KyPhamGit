@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on becoming a Data Scientist.
 - 🌱 I’m currently learning basic Machine Learning Modelling using Python3.
-- 🤔 I’m looking for help with Entry level jobs in Data Analytics/Science in London, UK or Remotely.
+- 🤔 I’m looking for help with jobs in Data Analytics/Science in London, UK or Remotely.
 - 📫 How to reach me: kyminhpham@gmail.com
 
 Check out my CodeWars:- 
